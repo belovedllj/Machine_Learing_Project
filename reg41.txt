@@ -1,0 +1,18 @@
+CS-561-B 2013F -> Forums -> News forum -> Queries #2 &amp; #3 for Programming
+HW #2
+---------------------------------------------------------------------
+Queries #2 &amp; #3 for Programming HW #2
+by Samuel Kim - Thursday, November  14, 2013, 12:55 PM
+---------------------------------------------------------------------
+Class:
+Please remove the restriction of the "YEAR 1996" for both queries (#2 &
+#3).This will give you more tuples/rows to work with.
+With the change, you will need to consider the following factor (and make
+necessary adjustments to your program).
+Quarters are defined only based on the MONTHs (not years -- pretend the
+YEAR column does NOT exist for the 2 queries).  For example, Quarter 2
+will include April, May and June for all years, that is, April of 1995,
+1996, 1997, etc. will all be considered the "same" and will be part of
+Quarter 2.
+Please reach out to me and TAs if you have any questions.
+-- Prof. Kim

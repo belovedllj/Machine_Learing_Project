@@ -1,0 +1,126 @@
+For your information.
+ 
+Prof. Dr. Sci. Darinka Dentcheva
+Department of Mathematical Sciences
+Stevens Institute of Technology
+Phone 201 216 8640 Fax: 201 216 8321
+url: http://personal.stevens.edu/~ddentche/
+ 
+From: Xiaodong Lin [mailto:lin@business.rutgers.edu] 
+Sent: Tuesday, October 22, 2013 9:21 PM
+To: Darinka Dentcheva
+Subject: DIMACS workshop Nov. 7-8.
+ 
+Dear Professor Dentcheva,
+ 
+    I'm organizing the following workshop in two weeks, and I thought it might be of some interest to you. Also I'm wondering whether you can distribute the following workshop announcement to your department or whoever might be interested? I really appreciate your help!
+ 
+Best wishes,
+ 
+Xiaodong
+ 
+ 
+  *********************************************************************
+DIMACS Workshop on Statistical Analysis of Network Dynamics and Interactions
+ 
+   November 7 - 8, 2013
+   DIMACS Center, CoRE Building, Rutgers University
+ 
+Organizers:
+    Edo Airoldi, Harvard University
+    Andrea Collevecchio, University Ca' Foscari- Venice and Monash University
+    Xiaodong Lin, Rutgers University, lin at business.rutgers.edu
+ 
+*********************************************************************
+Call for Participation:
+ 
+Talks are by invitation only. If you are interested in presenting a
+poster, please send an abstract to lin@business.rutgers.edu.
+ 
+Attendance at the workshop is open to all interested participants
+(subject to space limitations). Please register if you would like to
+attend this workshop.
+ 
+*********************************************************************
+Workshop Program: (Program is subject to change)
+ 
+Thursday, November 7, 2013
+ 
+ 8:30 -  9:00  Breakfast and Registration
+ 
+ 9:00 -  9:10  Welcome
+ 
+ 9:10 -  9:45  Change Point Inference for Time-varying Erdos-Renyi Graphs
+               George Michailidis, University of Michigan
+ 
+ 9:45 - 10:20  Local and Non-local Preferential Attachment Models
+               Shankar Bhamidi, UNC Chapel Hill
+ 
+10:20 - 10:40  Break
+ 
+10:40 - 11:15  Characterizing Individual Behavior from Interaction History
+               Patrick Perry, NYU
+ 
+11:15 - 11:50  Estimation of Exponential Random Graph Models for  Large Social Networks via Graph Limits
+               Tian Zheng, Columbia University
+ 
+11:50 -  1:20  Lunch
+ 
+ 1:20 -  1:30  Director's Welcome
+               Rebecca Wright, Director of DIMACS
+ 
+ 1:30 -  2:05  Graph Models and Scalable Analytics
+               Spiros Papadimitriou, Rutgers University
+ 
+ 2:05 -  2:40  The Dynamics of Dissemination on Graphs: Theory and Algorithms
+               Hanghang Tong, CUNY
+ 
+ 2:40 -  3:00  Break
+ 
+ 3:00 -  3:35  Large-Scale Graph Analysis Using Giraph
+               Jonathan Chang, Facebook
+ 
+ 3:35 -  4:10  Real Time Processing of Graphical Models in Education
+               George Davis, Knewton
+ 
+ 4:30          Dinner at DIMACS
+ 
+Friday, November 8, 2013
+ 
+ 8:30 -  9:00  Breakfast and Registration
+ 
+ 9:00 - 10:00  Jun Liu, Harvard University: TBD
+ 
+10:00 - 10:20  Break
+ 
+10:20 - 10:55  Nonparametric Graph Estimation
+               Han Liu, Princeton University
+ 
+10:55 - 11:30  Contrasted Penalized Integrative Analysis
+               Shuangge Ma, Yale University
+ 
+11:30 -  1:00  Lunch
+ 
+ 1:00 -  2:00  Dynamics and Large-Scale  Structure in Networks
+               Mark Newman, University of Michigan
+ 
+ 2:00 -  2:20  Break
+ 
+ 2:20 -  2:55  Generalized Preferential Attachment Models
+               Andrea Collevecchio, University Ca' Foscari- Venice and Monash
+ 
+ 2:55 -  3:30  Connection Times in Large Ad-hoc Mobile Networks
+               Gabriel Faraud, WIAS Berlin
+ 
+               Adjourn
+ 
+********************************************************************
+Workshop web site (including registration):
+ 
+  http://dimacs.rutgers.edu/Workshops/DynamicNetwork/
+ 
+
+_______________________________________________
+SSM mailing list
+SSM@lists.stevens.edu
+https://lists.stevens.edu/mailman/listinfo/ssm

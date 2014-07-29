@@ -1,0 +1,31 @@
+To:                          Student Employees
+From:                     Mark Samolewicz, Vice President for Human Resources
+Subject:                 DuckTime Update for Students, Staff and Managers
+Date:                     September 17, 2013
+ 
+
+Thank you for the cooperation and support you have shown as concerns with the DuckTime system were being addressed.
+ 
+We are pleased to report that the majority of the challenges have been resolved. We request your continued patience while the project team works on the questions that remain.  At this point, we believe that the system is working properly for nearly all users, and we are working to eliminate all remaining issues as quickly as possible.
+ 
+Below are some specific messages for each type of employee using DuckTime.
+ 
+Student Employees
+For student employees with multiple jobs, we have resolved the transfer functionality. If you continue to see job codes and ¡°reports-to¡± ID without descriptions, please visit the Student Employment Office. The staff at the SEO will provide you with information so you may accurately post your hours to your multiple positions.
+ 
+We are aware that some students see FWS (Federal Work Study) hours, and our project team is working on this. Please know that the visibility of FWS hours does not mean you are a FWS Student Employee.
+ 
+Employees  
+All employees with active jobs should now be able to access DuckTime successfully.
+ 
+Physical Plant Union Employees
+Physical Plant Union employees will continue to use the time clock that is available at the Griffith Building.
+ 
+Managers/Supervisors  
+Most managers are now able to see, review and approve their student and staff employees¡¯ timecards.  Please know we are aware that a few supervisors are still experiencing problems with this and it is a priority of the project team.
+ 
+Please contact ducktime@stevens.edu or call 216-8000 with any DuckTime questions.  Your patience and your willingness to report problems you have encountered have been invaluable in making the system better.
+ 
+In the coming weeks we will be adding more information to the DuckTime Support website.  Please visit the site: http://www.stevens.edu/sit/finance/ducktime-support.   There are links to access the DuckTime application from the support website or you may login via the DuckTime icon on the myStevens page or by using this URL: http://www.stevens.edu/ducktime.
+ 
+Thank you.

@@ -1,0 +1,34 @@
+FYI
+ 
+==========================================
+Darinka Dentcheva
+Professor
+Department of Mathematical Sciences
+Stevens Institute of Technology
+URL: http://personal.stevens.edu/~ddentche/
+ 
+From: siam-opt-bounces@siam.org [mailto:siam-opt-bounces@siam.org] On Behalf Of Pinar, Ali
+Sent: Friday, November 01, 2013 7:39 PM
+To: siam-sc@siam.org; siam-cse@siam.org; siam-opt@siam.org; siam-dma@siam.org; siam-ns@siam.org
+Subject: [SIAM-OPT] John Von Neumann Fellowship at Sandia National Labs
+ 
+Dear Colleagues,
+The Computing Research Center (www.cs.sandia.gov) and the Computer Sciences and Information Systems Center (www.sandia.gov/csit/) at Sandia National Laboratories invite outstanding candidates to apply for the 2014 John von Neumann Postdoctoral Research Fellowship in Computational Science.  We are seeking exceptional candidates who
+    * possess a strong technical background in computational mathematics and scientific computing,
+    * demonstrate the ability for independent research and self-motivation,
+    * have excellent communication and interpersonal skills,
+    * have the potential for technical leadership, and
+    * have the ability to contribute and impact ongoing Sandia projects.
+The application deadline is January 6, 2014.  More information about the fellowship and the application process can be found on the John von Neumann Fellowship website:
+
+http://www.cs.sandia.gov/VN_Web_Page/
+ 
+Ali Pinar, apinar@sandia.gov 
+Sandia National Labs, Livermore, CA 94551-9159
+phone: 925-294-4683, fax: 925-294-2234
+http://www.sandia.gov/~apinar
+
+_______________________________________________
+SSM mailing list
+SSM@lists.stevens.edu
+https://lists.stevens.edu/mailman/listinfo/ssm

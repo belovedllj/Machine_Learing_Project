@@ -1,0 +1,48 @@
+Dear Dr. Yan Wang,
+     Sorry to bother you. We a an question about the connection between Sentilla mote project and client project. We stuck at this problem for several days.
+        We want to run the "AcceleratorButton.java" at the MoteProject Side to trigger the programs at the ClientProject. So we could shake the mote at Y-axis to trigger the program at ClientProject side.
+         We tried several approaches at the "Sender" and "receiver" following the lecture PPT.  But We still got confused....Could you give us some useful advices to help us out.
+        Thanks you in advance. We will be vary grateful if you can reply us soon.
+                                                                Sincerely, Peng Peng
+
+Eric Peng <sagittariuseric@gmail.com>
+May 4
+
+to ywang48 
+
+
+Yan Wang <yanwang529@gmail.com>
+May 5
+
+to Yu, me 
+Can you check with this student see what you can help him?
+
+Thanks.
+
+Yan
+
+
+Eric Peng <sagittariuseric@gmail.com>
+May 5
+
+to Yan, langyu1989 
+Sorry to trouble you again.
+Just One problem left right now.
+In ClientApp.java
+Why in "MoteApp.MyMessage"  why "MoteApp" always have syntax error on it......
+I find no method.
+                                                          Sincerely, Peng 
+
+
+Yu Lang <langyu1989@gmail.com>
+May 5
+
+to me 
+what do you mean by syntax error, can you give me a screen shot ?
+
+
+Eric Peng <sagittariuseric@gmail.com>
+May 5
+
+to Yu 
+sure

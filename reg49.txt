@@ -1,0 +1,21 @@
+ECE seminar series: Using Big Data Analytics to Thwart Cyber Threats
+Friday, November 8, 2013 ¨C ( 2:30 pm to 3:30 pm )
+Location: Babbio Center, Room 122
+Contact: 
+Prof. Yingying Chen (yingying.chen@stevens.edu)
+Using Big Data Analytics to Thwart Cyber Threats
+BY Dr. Parag Pruthi
+ NIKSUN Founder, Chairman & CEO
+ABSTRACT
+Malware is "software designed to disrupt computer operation, gather sensitive information, or gain unauthorized access to computer systems." New modes of computing, such as mobile devices and cloud computing, offer new attack opportunities. Attackers are often motivated by financial gain but may also prepare for cyberterrorism or espionage. These new attacks require highly intensified methods of surveillance, detection, and protection. Dr. Pruthi will showcase high-profile domestic and foreign attacks and discuss their implications on our national security. He will explain how current methods are failing us and how we need advanced methods of defense against such relentless attackers in a global environment where cybersecurity has no borders. Dr. Pruthi will explain the benefits of utilizing big data analytics to discover, mitigate, prevent, and combat large scale attacks and cyber espionage.
+BIOGRAPHY
+Dr. Pruthi brings over twenty-five years of expertise in the network security, wireless and applications analysis industry. Dr. Pruthi is the founder of NIKSUN which he has built from a startup to a highly successful global company leading the way in the cyber security, wireless and network monitoring markets. Dr. Pruthi is widely recognized as the founding father of packet capture, stream to disk, bit vacuum, and other related technologies which he introduced to the market in 1997 through the enormously popular NetVCR. He is also widely accepted as one of the leading innovators in the field of cyber security. In 2001 he introduced the NetDetector as the only device in the world capable of multi gigabits per second line rate recording and simultaneous analysis, reconstruction and replay in order to discover the source of security incidents and identification of potential information leakage. This ground-breaking invention led to the creation and growth of the field of network forensics.
+Recognized as one of the foremost experts in advanced cyber security technologies, Dr. Pruthi advises on cyber defense strategies at the highest levels of governments and enterprises, both nationally and globally. He is a frequent speaker on cyber security issues, including keynotes to delegates from across 28 NATO nations, agencies, and strategic commands at the NATO Information Assurance Symposium 2010-2013.
+Dr. Pruthi holds a Bachelor¡¯s degree in Electrical Engineering, a Master¡¯s in Computer Science from Stevens Institute of Technology, and a Doctorate in Telecommunications from The Royal Institute of Technology, Stockholm, Sweden. His thesis, ¡°An Application of Chaotic Maps to Packet Traffic Modeling,¡± was the first to apply chaotic and fractal or self-similar systems to accurately model the seemingly erratic nature of network traffic. Dr. Pruthi is General Co-Chair for the Global Wireless Summit which combines four global conferences: NIKSUN¡¯s World Wide Security & Mobility Conference (WWSMC); the Wireless Vitae (European); the Wireless Personal Multimedia Communications Symposium (Asian); and PRISMS (the successor of MobiSec). Dr. Pruthi is also a member of the Steering Board for the "Journal of Cyber Security & Mobility."
+Maria L. Toloza
+Electrical and Computer Engineering Department
+Stevens Institute of Technology
+Burchard 212
+Hoboken, NJ 07030
+(V) 201-216-5623
+(F) 201-216-8246

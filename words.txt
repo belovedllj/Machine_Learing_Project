@@ -1,0 +1,1 @@
+** Discount will automatically apply to cart at checkout;

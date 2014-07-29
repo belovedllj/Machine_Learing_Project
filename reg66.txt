@@ -1,0 +1,30 @@
+This may be of interest to someone.
+ 
+IF
+ 
+From: Nick Gavronsky [mailto:ngavronsky@gmail.com] 
+Sent: Sunday, October 20, 2013 2:13 PM
+To: ifloresc@stevens.edu
+Subject: FinTech Hackathon/Stevens Institute
+ 
+Ionut, 
+ 
+Hope you are well! We are kicking off the next FinTech Hackathon Nov 9-10 at MongoDB, and would love for you to share it with your students. I have included copy below, as well as 50% off tickets. Also, hope you can make it for the demos! Let me know if you have any questions or need more information. 
+ 
+The FinTech Hackathon ¨C Nov 9-10 at MongoDB
+The FinTech Hackathon brings together developers and designers to develop financial products and discover new technologies in trading, investing, big data, risk, retail banking, compliance, mobile payments and enterprise social.
+
+There's a great mix of APIs from firms like Bloomberg, Dow Jones, Yodlee, MongoDB and startups including Dwolla, Venmo, Estimize, OpenFin, StockTwits and many more. They are offering great prizes including cash, hardware, finalist spots in accelerator programs and jobs for the most talented hackers! Register for 50% off using FINTECHNYC at http://fintechhackathon.eventbrite.com/.
+ 
+Best,
+Nick
+ 
+--
+Nick Gavronsky
+@nmgav | productminded.me
+561.251.4131
+
+_______________________________________________
+SSM mailing list
+SSM@lists.stevens.edu
+https://lists.stevens.edu/mailman/listinfo/ssm

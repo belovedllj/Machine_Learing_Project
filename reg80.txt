@@ -1,0 +1,56 @@
+Basically, some of your questions wil be discussed next week. It is good that you think forward. Here are the breif answers as following.
+
+On 09/26/2013 1:35 AM, Peng Peng wrote:
+Dear Prof. Rong Duan,
+          After whole night thinking, today's content still
+confuses me. Could I ask some questions about it?
+          (1) Besides the Mathematical meaning, what's is the
+physical meaning of Hidden Layer? It gives us a different view to see
+the inputs? Or it is just a mathematical tool help us in Non-Liner
+predicting? Is hidden unit just a boolean function?
+
+Under most situations, it is only non-linear combination to mimic the biological neron. hidden unit is not a boolean function. It is a two-step process: weighted sum + logistic transform.
+
+          (2) The output's number is always 2? Moreover, for just
+single input how many Hidden unities  are required?
+
+THe output is a vector of real value number. If the  input is only one dimension, NN will not fit. But if it is time series, it will be another story.
+
+          (3) Why all inputs can connect to one single hidden
+unit, and also all out put can connected to one single hidden unit?
+What the concrete meaning of that?
+
+That structure tries to mimic the real bilogical neron and there are other type of NN that have different structure.
+
+
+          (4) How many hidden unites are required according
+inputs? Is it a constant for that?
+
+The number of hidden unit is not constant and there is no rule to tell you which number is the reight one. YOu have to try and test.
+
+
+         I think tonight's class was full of abstract
+mathematical concept. I will be appreciated if you can give us some
+specific examples (included numbers) next class, so can help us better
+understanding.
+
+Yes,I will show some examples next week.
+
+          I will be very appreciated if you can reply me soon.
+          Have a good night.
+                                             
+                              Sincerely, Peng Peng
+
+rduan <rduan@stevens.edu>
+Sep 26
+
+to Peng 
+Oh, one thing I want to make it clear that for single input NN. It is trianable for single input NN, but it will not show the advantage of NN for single input. I will use single input as example next week.
+
+Eric Peng <sagittariuseric@gmail.com>
+Sep 26
+
+to rduan 
+Dear prof.
+             Thanks a lot for your answer, very helpful. Hope to listen next class to reveal some answer. 
+                                                       Sincerely, Peng Peng

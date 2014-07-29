@@ -1,0 +1,50 @@
+Dear Graduate Students,
+
+S14 course registration starts on Monday. If you are interested in a
+particular course, you need to register immediately as some classes
+are filled up very quickly.
+
+I would like to introduce the following courses to you.
+
+- If you have taken Wireless Communications with Prof. Jack Winters,
+you may take his antenna course,
+EE-810-C Antenna Thry&App in Wireless Com
+He also teaches
+EE-609-A Communication Theory I
+
+- Good skills for Big Data applications
+EE-810-D InfoNetworkDataModels&Analysis (Prof. Rensheng Wang)
+CPE-695-A Applied Machine Learning
+
+- Several software/programming skill courses:
+CPE-593-A Applied Data Struct. & Algor.
+EE-810-E Engineering Programming:C++/Java
+EE-810-H EngineeringProgramming:Python
+EE-810-P Software System and Prototyping
+
+- Good analytical skills
+EE-608-A Applied Modeling & Optimization
+CPE-695-A Applied Machine Learning
+
+- Hardware and embedded systems:
+CPE 517A Digital & Comp Sys Architecture
+CPE 545A Comm. Software & Middleware
+CPE 555A Real-Time and Embedded Systems
+CPE 556A Computing Princ. of Embedded Sys
+CPE 690A Introduction to VLSI Design
+
+- Two power engineering courses
+EE-590-A Smart Grid
+EE-810-M ComputationalMethodsinPowerEng
+
+
+
+Best regards,
+
+
+// Dr. Yu-Dong Yao
+// Professor and Department Director
+// ECE/Stevens
+// 201-216-5264
+// http://personal.stevens.edu/~yyao
+// http://www.stevens.edu/ses/ece
